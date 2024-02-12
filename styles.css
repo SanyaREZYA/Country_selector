@@ -1,0 +1,10 @@
+.body {
+    font-size: 1.3em;
+    font-family:Tahoma, sans-serif
+}
+
+.countrySelector {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
