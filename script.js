@@ -51,6 +51,10 @@ document.addEventListener('DOMContentLoaded', () => {
           margin-bottom: 5px;
           cursor: pointer;
         }
+
+        .countryItem:hover {
+          background-color: #eeeeee;
+        }
     
         .countryFlag {
           width: 25px;
