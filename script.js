@@ -30,10 +30,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
         button {
           margin-left: 10px;
-
           width: 30px;
           height: 30px;
-          padding: 5px;
+          padding: 20px;
           border: none;
           background-color: white;
           background-image: url(images/button_arrow.png);
